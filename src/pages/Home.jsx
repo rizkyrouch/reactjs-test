@@ -1,13 +1,13 @@
-import Footer from "../components/Footer"
-import Navbar from "../components/Navbar"
-import Tutorcomp from "../components/Tutorcomp"
-import Partnercomp from "../components/Partnercomp"
-import Contact from "../Data/Contact"
+import Footer from "../components/Footer.jsx"
+import Navbar from "../components/Navbar.jsx"
+import Tutorcomp from "../components/Tutorcomp.jsx"
+import Partnercomp from "../components/Partnercomp.jsx"
+import Contact from "../Data/Contact.jsx"
 import '../Style/Home.css'
-import {HomeSection} from "../Data/HomeSection"
-import {Course} from "../Data/Course"
-import {Tutor} from "../Data/Tutor"
-import {Partner} from "../Data/Partner"
+import {HomeSection} from "../Data/HomeSection.jsx"
+import {Course} from "../Data/Course.jsx"
+import {Tutor} from "../Data/Tutor.jsx"
+import {Partner} from "../Data/Partner.jsx"
 function Home() {
   return (
     <>
