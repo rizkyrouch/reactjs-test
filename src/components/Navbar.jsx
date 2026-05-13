@@ -1,7 +1,8 @@
-import '../style/Navbar.css'
+import '../Style/Navbar.css'
 function Navbar() {
   return (
-     <nav>
+
+        <nav>
         <div className="wrapper">
             <div className="logo"><a href=''>RumahRafif.</a></div>
             <div className="menu">
@@ -20,3 +21,4 @@ function Navbar() {
 }
 
 export default Navbar
+
